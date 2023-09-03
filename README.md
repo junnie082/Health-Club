@@ -1,2 +1,23 @@
 # Health-Club
-For the people who want to make their brain power stronger.
+건강한 삶(뇌가 건강한)을 살고 싶은 사람들은 위한 클럽.
+
+## Rules
+지정된 책의 한 줄이라도, 또는 책에 관련된 자료를 참고하거나 영상을 시청하고 오더라도 OK. 일단 모여라!
+자유롭게 소통하고, 생각의 범위를 넓히는 것을 목표로 함.
+
+## Meet-Up
+한 달에 한 번, 자유로운 소통이 가능한 공간 어디든!
+
+## Members
+### 2023.09.02.(Sat) ~
+|![junnie082](https://github.com/junnie082/Health-Club/assets/88719152/dd519285-2e0a-43f3-b7ae-ca776af92857)|  |  | 
+| :------------: | :------------: | :------------: |
+| **[전효정](https://github.com/junnie082)** | **[]()**  | **[]()** |
+
+
+
+
+
+
+
+
